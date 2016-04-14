@@ -1,0 +1,4 @@
+sylwn_board_records:
+    resource: "@SylwnBoardRecordsBundle/Controller/"
+    type:     annotation
+    prefix:   /
