@@ -1,0 +1,4 @@
+services:
+#    sylwn_board_records.example:
+#        class: Sylwn\BoardRecordsBundle\Example
+#        arguments: ["@service_id", "plain_value", %parameter%]
